@@ -1,7 +1,7 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = 'sunnyday/light/index.php';//PHP/HTML file or URL used for bots
-$CLOAKING['OFFER_PAGE'] = 'sunnyday/dark/index.html';//PHP/HTML file or URL offer used for real users
+$CLOAKING['WHITE_PAGE'] = 'https://mysunitaly.github.io/sunnyday/light/index.php';//PHP/HTML file or URL used for bots
+$CLOAKING['OFFER_PAGE'] = 'https://mysunitaly.github.io/sunnyday/dark/index.html';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'on';// replace "on" with "off" to switch from debug to production mode
 /*********************************************/
 /* Available additional settings  */
